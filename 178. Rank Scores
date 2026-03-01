@@ -4,3 +4,4 @@ select
     as 'rank'
     from scores
     order by 2
+#using thendense_rank() here
